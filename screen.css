@@ -49,3 +49,10 @@ table {
 
 /* End Reset CSS */
 /* Begin Site CSS */
+
+body {
+background-color:#ffffff;
+padding:100px;
+font-family:georgia, times, serif;
+text-align: center;
+}
