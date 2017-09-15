@@ -57,7 +57,7 @@ font-family:georgia, times, serif;
 }
 
 h1 {
-	line-height: 1em;
+	line-height: 2.5em;
 	font-size: 5.5em;
 	text-transform: capitalize;
 	font-weight: bold;
@@ -66,5 +66,10 @@ color:#66E0FF;
 }
 
 p {
+	line-height: 1.25em;
+	padding-bottom: 1.25em;
+	text-indent: 1.25em;
+	font-family: georgia, Times, serif;
+		text-align: center;
 color:rgb(0, 204, 153);
 }
