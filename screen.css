@@ -50,10 +50,19 @@ table {
 /* End Reset CSS */
 /* Begin Site CSS */
 
-body {
-background-color:#ffffff;
-padding:100px;
-font-family:georgia, times, serif;
+html {
+	text-rendering: optimizeLegibility;
+	font-family: georgia, sans-serif;
+	-webkit-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100;
+	-ms-text-size-adjust: 100%;
+	text-size-adjust: 100%;
+	font-size: 1.125em; /* 18 / 16 = 1.125 */
+	line-height: 21.6px; /* 21.6 / 18 = 1.2 */
+	line-height: 1.222222em; /* 22 / 18 = 1.22222 */
+	padding-top:  3em;
+	padding-left: 1.5em;
+	padding-right: 1.5em;
 }
 
 h1 {
@@ -70,6 +79,6 @@ p {
 	padding-bottom: 1.25em;
 	text-indent: 1.25em;
 	font-family: georgia, Times, serif;
-		text-align: left;
+	text-align: center;
 color:rgb(0, 204, 153);
 }
