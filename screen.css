@@ -65,6 +65,10 @@ html {
 	padding-right: 1.5em;
 }
 
+body{
+	background-color: #e5f8f9;
+}
+
 h1 {
 	line-height: 2.5em;
 	font-size: 3.5em;
