@@ -79,6 +79,10 @@ p {
 	padding-bottom: 1.25em;
 	text-indent: 1.25em;
 	font-family: georgia, Times, serif;
-	text-align: center;
+	text-align: left;
 color:rgb(0, 204, 153);
+}
+
+p, figure {
+	padding-bottom: 1.2em; /* = 1 line-height */
 }
