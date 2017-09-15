@@ -75,12 +75,16 @@ color:#66E0FF;
 }
 
 p {
-	line-height: 1.25em;
-	padding-bottom: 1.25em;
-	text-indent: 1.25em;
 	font-family: 'georgia', Times, serif;
-	text-align: left;
-color:rgb(0, 204, 153);
+	line-height: 1.25em;
+	margin-bottom: 1.5em;
+	padding-top: 0em;
+	padding-bottom: 0em;
+	padding-left: 2.5em;
+	padding-right: 2.5em;
+	text-indent: 0em;
+	text-align: justify;
+	color:rgb(0, 204, 153);
 }
 
 p, figure {
