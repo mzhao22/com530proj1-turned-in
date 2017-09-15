@@ -57,6 +57,10 @@ font-family:georgia, times, serif;
 text-align: center;
 }
 
+h1 {
+color:#66E0FF;
+}
+
 p.small {
     line-height: 70%;
 }
