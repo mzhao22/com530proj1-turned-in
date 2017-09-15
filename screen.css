@@ -80,6 +80,10 @@ h1 {
 color:#66E0FF;
 }
 
+h2 {
+	text-align: center;
+}
+
 p {
 	font-family: 'georgia', Times, serif;
 	line-height: 1.25em;
